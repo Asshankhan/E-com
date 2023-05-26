@@ -1,0 +1,81 @@
+<template>
+      <footer class="footer py-5">
+      <div class="container">
+        <div class="row">
+          <div class="col-10 mx-auto text-center">
+            <h1
+              class="text-uppercase font-weight-bold text-yellow d-inline-block footer-title"
+            >
+              comfy sloth
+            </h1>
+            <!-- footer icons -->
+            <div class="footer-icons d-flex justify-content-center my-5">
+              <!-- single icon -->
+              <a href="" class="footer-icon mx-2">
+                <div class="fab fa-facebook"></div>
+              </a>
+              <!-- end of single icon -->
+              <!-- single icon -->
+              <a href="" class="footer-icon mx-2">
+                <div class="fab fa-twitter"></div>
+              </a>
+              <!-- end of single icon -->
+              <!-- single icon -->
+              <a href="" class="footer-icon mx-2">
+                <div class="fab fa-youtube"></div>
+              </a>
+              <!-- end of single icon -->
+              <!-- single icon -->
+              <a href="" class="footer-icon mx-2">
+                <div class="fab fa-google-plus"></div>
+              </a>
+              <!-- end of single icon -->
+              <!-- single icon -->
+              <a href="" class="footer-icon mx-2">
+                <div class="fab fa-instagram"></div>
+              </a>
+              <!-- end of single icon -->
+            </div>
+            <!-- footer icons -->
+            <p class="text-muted text-capitalize w-75 mx-auto text-center">
+              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Labore
+              illum illo exercitationem ex porro consequuntur quae mollitia qui
+              accusamus! Molestiae.
+            </p>
+            <div class="footer-contact d-flex justify-content-around mt-5">
+              <!-- single contact -->
+              <div class="text-capitalize">
+                <span class="contact-icon mr-2">
+                  <i class="fas fa-map"></i>
+                </span>
+                123 Main Street, Los Angeles
+              </div>
+              <!-- end of single contact -->
+              <!-- single contact -->
+              <div class="text-capitalize">
+                <span class="contact-icon mr-2">
+                  <i class="fas fa-phone"></i>
+                </span>
+                Phone : + (310) 111 2222
+              </div>
+              <!-- end of single contact -->
+              <!-- single contact -->
+              <div class="text-capitalize">
+                <span class="contact-icon mr-2">
+                  <i class="fas fa-envelope"></i>
+                </span>
+                Email : Eamil@Email.Com
+              </div>
+              <!-- end of single contact -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+</template>
+
+<script>
+export default {
+
+}
+</script>
